@@ -1,4 +1,4 @@
-# example-from-the-article
+# responsive-html-example-from-the-article
 
 Implementation of the example from the article: https://habr.com/ru/company/edison/blog/344878/ adding one line to CSS
 
@@ -11,4 +11,4 @@ Implementation of the example from the article: https://habr.com/ru/company/edis
 
 ## Result:
 
-<a href="https://xeni-ya.github.io/example-from-the-article/">Click 👆</a>
+<a href="https://xeni-ya.github.io/responsive-html-example-from-the-article/">Click 👆</a>

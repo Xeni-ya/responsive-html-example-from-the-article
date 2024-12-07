@@ -1,4 +1,4 @@
-# example-from-the-article
+# responsive-html-example-from-the-article
 
 Реализация примера из статьи: https://habr.com/ru/company/edison/blog/344878/
 Адаптивный HTML, добавляя одну строку в CSS
